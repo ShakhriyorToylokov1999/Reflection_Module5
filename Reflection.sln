@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection", "Reflection.csproj", "{93F9CB4A-6729-48DE-A9C6-0C6E01FEAC1C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ACB200CB-F2F3-4229-8AB5-78C5C6BAC4FE}"
+	ProjectSection(SolutionItems) = preProject
+		app.config = app.config
+		config.txt = config.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93F9CB4A-6729-48DE-A9C6-0C6E01FEAC1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93F9CB4A-6729-48DE-A9C6-0C6E01FEAC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93F9CB4A-6729-48DE-A9C6-0C6E01FEAC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93F9CB4A-6729-48DE-A9C6-0C6E01FEAC1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B6575EB-F360-4A36-9DDE-449826DDA90C}
+	EndGlobalSection
+EndGlobal
